@@ -1,0 +1,31 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: antiquewhite;
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    height: 500px;
+
+}
+
+.top-banner {
+    background-color: #2D25A0;
+    display: flex;
+}
+
+.half-width {
+    width: 40%;
+    margin: 120px;
+}
+
+.half-width img {
+    width: 100%;
+}
+
+h1 {
+    color: white;
+    font-size: 64px;
+    line-height: 80px;
+}
